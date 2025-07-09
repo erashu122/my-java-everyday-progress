@@ -23,7 +23,7 @@ public class array2 {
     //int[][][] a=new int[3][4][]; //vailid
     //int[][][] a=new int[3][][5]; //']' expected
     //int[][][] a=new int[][4][5];   //']' expected
-     System.out.println(a[0]);
+    System.out.println();
 
             
     }

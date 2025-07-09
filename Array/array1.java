@@ -21,7 +21,7 @@ public class array1 {
     // System.out.println(x.getClass().getName());
     // int [] b=new int[10];
     // System.out.println(b.getClass().getName());
-    int[] x=new int[2147483648];
+    //int[] x=new int[2147483648];
     }
     
 } 
