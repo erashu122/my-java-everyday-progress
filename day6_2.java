@@ -12,8 +12,3 @@ public class day6_2 {
 }
 
 // mixed mode operation
-class ashu{
-    public static void main(String[] args) {
-        System.err.println(10+2+" "+"ashu"+"pandit"+"  "+(10+12));
-    }
-}
